@@ -1,0 +1,2 @@
+Note: This folder contains files that are required for running the W4062 Charge Evaluation GUI tool.
+Please do not remove these files and folders.
