@@ -1,4 +1,5 @@
 @echo off
+REM: This file is not used for path extraction
 :: Extract the path of the current batch file
 set myfiles_path=%~dp0
 :: Check if the path is already in the PATH variable
